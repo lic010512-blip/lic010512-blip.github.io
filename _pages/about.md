@@ -52,6 +52,18 @@ Guoli Wang, Shiyun Ma, **Haoru Song**, Yuying Liang, et al.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS 2025</div><img src='images/ja5c08065_0007.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Chemoproteomic Approach for System-Wide and Site-Specific Uncovering of Functional Protein N-Glycosylation](https://pubs.acs.org/doi/pdf/10.1021/jacs.5c08065?ref=article_openPDF)
+
+Guoli Wang, Shiyun Ma, **Haoru Song**, Yuying Liang, et al.
+
+[**Citation**](https://pubs.acs.org/doi/10.1021/jacs.5c08065#citeThis) <strong>
+- contributed to the revision and improvement of the manuscript, including systematic checking of benchmark and optimization of analytical procedures.
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
