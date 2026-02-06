@@ -40,7 +40,7 @@ Hi there! 👋😄 I am <strong> Haoru Song</strong> (Chinese name: <strong>宋�
 Still trying hard...🔴🟠🟡🟢
 
 <strong>🧑‍🤝‍🧑 Co-author Publications</strong>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS 2025</div><img src='images/ja5c08065_0007.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Chemoproteomic Approach for System-Wide and Site-Specific Uncovering of Functional Protein N-Glycosylation](https://pubs.acs.org/doi/pdf/10.1021/jacs.5c08065?ref=article_openPDF)
