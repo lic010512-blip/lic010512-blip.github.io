@@ -50,7 +50,7 @@ Guoli Wang, Shiyun Ma, **Haoru Song**, Yuying Liang, et al.
 [**Citation**](https://pubs.acs.org/doi/10.1021/jacs.5c08065#citeThis) <strong>
 
 <strong>Contribution</strong>
-- contributed to the revision and improvement of the manuscript, including systematic checking of benchmark and optimization of analytical procedures.
+- Contributed to the revision and improvement of the manuscript, including systematic checking of benchmark and optimization of analytical procedures.
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Yuying Liang, Jian Chen*, Shiyun Ma, **Haoru Song**, et al.
 [**Citation**](https://pubs.acs.org/doi/10.1021/jacs.5c12360#citeThis) <strong>
 
 <strong>Contribution</strong>
-- contributed to performing multimeric protein modeling and structural quality assessment, conducting protein-protein docking, performing molecular dynamics (MD) simulations and subsequent trajectory analysis, carrying out free energy calculations and futher analysis, as well as drafting the Methods section.
+- Contributed to performing multimeric protein modeling and structural quality assessment, conducting protein-protein docking, performing molecular dynamics (MD) simulations and subsequent trajectory analysis, carrying out free energy calculations and futher analysis, as well as drafting the Methods section.
 </div>
 </div>
 
