@@ -98,6 +98,7 @@ Shiyun Ma, Yuying Liang, **Haoru Song**, Ting Wang, et al.
 
 # 💬 Academic Conferences/Presentations
 - *2024.03*, The Second Multi-Omics Research and Clinical Applicaton Seminar, Shanghai, China *(Student attendee)*.
+
 <strong> Note:</strong> Conference papers, posters, or presentation materials are provided when available.
 
 # 👨‍🏫 Teaching Experiences
