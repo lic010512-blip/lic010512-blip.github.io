@@ -45,10 +45,10 @@ Still trying hard...🔴🟠🟡🟢
 
 [A Chemoproteomic Approach for System-Wide and Site-Specific Uncovering of Functional Protein N-Glycosylation](https://pubs.acs.org/doi/pdf/10.1021/jacs.5c08065?ref=article_openPDF)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Guoli Wang, Shiyun Ma, **Haoru Song**, Yuying Liang, et al.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- contributed to the revision and improvement of the manuscript, including systematic checking of benchmark, calibration of critical parameters, and optimization of analytical procedures to enhance accuracy and reproducibility
 </div>
 </div>
 
