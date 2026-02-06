@@ -68,6 +68,20 @@ Yuying Liang, Jian Chen*, Shiyun Ma, **Haoru Song**, et al.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS 2026</div><img src='images/ja5c12360_0005.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Living Cell Surfacome Lysine Footprinting (LiFT) Captures Virus-Induced Conformational Dynamics and Uncovers Influenza A Virus Host Factors](https://pubs.acs.org/doi/pdf/10.1021/jacs.5c14196?ref=article_openPDF)
+
+Shiyun Ma, Yuying Liang, **Haoru Song**, Ting Wang, et al.
+
+[**Citation**](https://pubs.acs.org/doi/10.1021/jacs.5c14196#citeThis) <strong>
+
+<strong>Contribution</strong>
+- Contributed to performing multimeric protein modeling and structural quality assessment, conducting protein-protein docking, as well as drafting the Methods section.
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
